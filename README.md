@@ -1,3 +1,3 @@
 # responsive-web-design
 
-Just a small project that contains full responsive web design.
+Just a small project that contains fully responsive web design.
